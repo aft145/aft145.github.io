@@ -13,8 +13,7 @@ git clone https://github.com/aft145/aft145.github.io.git
 2. Relay
 3. LEDs
 4. Senosrs:
-..*
-1.Temperature Sensors LM35 or DHT11
-2.Light Dependent Resistor LDR
-3.Finger Print Sensor R307
-4.Motion Sensor HC-SR501
+i.Temperature Sensors LM35 or DHT11
+ii.Light Dependent Resistor LDR
+iii.Finger Print Sensor R307
+iv.Motion Sensor HC-SR501
