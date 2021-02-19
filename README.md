@@ -18,3 +18,6 @@ git clone https://github.com/aft145/aft145.github.io.git
 4.2.Light Dependent Resistor LDR
 4.3.Finger Print Sensor R307
 4.4.Motion Sensor HC-SR501
+### Connect your App to Firebase
+Create a firebase project by going to https://firebase.google.com/. When a project is created go to the console and select Android to register your app. Add your package name and SHA-1 (Debug signing certificate). After registering your app, download the google-services.json file. To add this file to the project, Switch to the project view in android studio and Move this file to the app module root directory. Now your application is connected to the firebase.
+### Android Studio
