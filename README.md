@@ -4,3 +4,17 @@ The advancement in the technology has made us to enter into a different world wh
 ## Getting Started
 ### Cloning the repository
 git clone https://github.com/aft145/aft145.github.io.git
+### Software Requirement
+1. Windows OS
+2. Arduino IDE
+3. Android Studio
+### Hardware Requirement
+1. Node MCU(Microcontroller)
+2. Relay
+3. LEDs
+4.Sensors:
+..*
+1.Temperature Sensors LM35 or DHT11
+2.Light Dependent Resistor LDR
+3.Finger Print Sensor R307
+4.Motion Sensor HC-SR501
