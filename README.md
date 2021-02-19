@@ -6,8 +6,9 @@ The advancement in the technology has made us to enter into a different world wh
 git clone https://github.com/aft145/aft145.github.io.git
 ### Software Requirement
 1. Windows OS
-2. Arduino IDE
-3. Android Studio
+3. Arduino IDE
+4. Android Studio
+5. Firebase DB
 ### Hardware Requirement
 1. Node MCU(Microcontroller)
 2. Relay
