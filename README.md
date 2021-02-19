@@ -12,7 +12,7 @@ git clone https://github.com/aft145/aft145.github.io.git
 1. Node MCU(Microcontroller)
 2. Relay
 3. LEDs
-4.Sensors:
+4. Senosrs:
 ..*
 1.Temperature Sensors LM35 or DHT11
 2.Light Dependent Resistor LDR
