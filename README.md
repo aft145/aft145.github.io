@@ -25,6 +25,7 @@ To run  this project in the Android Studio, Click on File option and go to open.
 Create a firebase project by going to [Firebase](https://firebase.google.com/ "Firebase site") . When a project is created go to the console and select Android to register your app. Add your package name and SHA-1 (Debug signing certificate). After registering your app, download the google-services.json file. To add this file to the project, Switch to the project view in android studio and Move this file to the app module root directory.
 #### Dependencies in Build.Gradle file
 You have to write the following dependencies in the build.gradle file in order to connect it to firebase. Also apply the google plugin after dependencies.
+
 { ``` }
 dependencies {
     implementation 'com.google.firebase:firebase-analytics'
@@ -32,6 +33,7 @@ dependencies {
     }
 apply plugin: 'com.google.gms.google-services'
 { ``` }
+
 Now your application is connected to the firebase.
 ### Permissions in Manifest file
 IoT based  smart home application need following permissions in the android manifest file. In order to run the files in the android studio, you need to specify these permissions in the AndroidManifest.xml file.
