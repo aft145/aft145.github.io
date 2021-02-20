@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smart Home</string>
+    <string name="UserName">Enter UserName:</string>
+    <string name="Password">Enter Password:</string>
+    <string name="Login">Login</string>
+    <string name="Remember_Me">Remember Me</string>
+    <string name="Smart_Home">Smart Home</string>
+    <string name="NewUserSignUp">New User, Sign Up</string>
+    <string name="Email">Enter Email</string>
+    <string name="Name">Enter  Full Name</string>
+    <string name="Sign">Already Reegistered, Signin</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Welcome">Welcome to Smart Home</string>
+    <string name="Devices">Devices</string>
+    <string name="Sensors">Sensors</string>
+    <string name="Pass">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="Show_Password">Show Password</string>
+    <string name="CPassword">Confirm Password</string>
+    <string name="conPassword">Confirm Password</string>
+    <string name="Forgot">Forgot Password?</string>
+    <string name="change_pass">Change Password</string>
+    <string name="family">Family Locator App</string>
+    <string name="Smart">IoT Smart Home</string>
+    <string name="smart">IoT Smart Home</string>
+
+
+</resources>
