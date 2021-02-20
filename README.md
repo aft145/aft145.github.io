@@ -49,7 +49,6 @@ IoT based  smart home application need following permissions in the android mani
 ---
 <a href="https://github.com/aft145/aft145.github.io/network"><img alt="GitHub forks" src="https://img.shields.io/badge/IoT%20based%20Smart%20Home-Final%20Year%20Project-red"></a>
 
-##adskdj
+##Stats
 
-2
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aft145&count_private=true&theme=tokyonight&showicons=true)]()
