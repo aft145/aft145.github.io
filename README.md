@@ -27,20 +27,24 @@ Create a firebase project by going to [Firebase](https://firebase.google.com/ "F
 You have to write the following dependencies in the build.gradle file in order to connect it to firebase. Also apply the google plugin after dependencies.
 
 “```"
-dependencies {
 
+dependencies {
     implementation 'com.google.firebase:firebase-analytics'
     implementation 'com.google.firebase:firebase-auth:20.0.1'
     }
 apply plugin: 'com.google.gms.google-services'
+
 “```"
 
 Now your application is connected to the firebase.
 ### Permissions in Manifest file
 IoT based  smart home application need following permissions in the android manifest file. In order to run the files in the android studio, you need to specify these permissions in the AndroidManifest.xml file.
 “```"
+
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
 “```"
+### Arduino IDE
