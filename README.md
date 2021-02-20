@@ -50,11 +50,12 @@ Open the Arduino IDE software and press CTRL+O to open the files. Select the dir
 ### Installing COM/Serial Port Driver
 In order to upload code to the Node MCU and use the serial console, you need to install the COM/Serial port drivers. You can [Download](https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers "COM/Serial Port") download these drivers by clicking on the download.
 ### Selecting the appropriate board (Install the ESP8266 Board Package)
-Before uploading the files in the microcontroller board, you need to select the appropriate board. In this project we are using Node MCU. Click on File option, go to **Perferences–>Settings**. Enter the link and click “OK” to save your changes. Select board manager by going to **Tools->board->board Manager**. Search ESP8266 package, find the latest version and click **install**. After installation, restart Arduino IDE. Now go to **Tools->Board** dropdown Config the Board menu and choose the right Port for your device. Now your board is ready to upload the code. 
+Before uploading the files in the microcontroller board, you need to select the appropriate board. In this project we are using Node MCU. Click on File option, go to **Perferences–>Settings**. Enter the http://arduino.esp8266.com/stable/package_esp8266com_index.json link and click “OK” to save your changes. Select board manager by going to **Tools->board->board Manager**. Search ESP8266 package, find the latest version and click **install**. After installation, restart Arduino IDE. Now go to **Tools->Board** dropdown Config the Board menu and choose the right Port for your device. Now your board is ready to upload the code. 
 ### Upload code on the Node MCU Microcontroller
 Use the USB cable to connect your NodeMCU to the computer,you will see the blue onboard LED flicker when powered up. Click on Verify option to compile the code. Now click on Upload button to upload the code on the Node MCU board. The code will be uploaded to the Node MCU board.
 ### Contact Details
 **ahmadshoaib291@gmail.com**
+---
 **fareed.aft145@gmail.com**
 ## Github Stats
 
