@@ -5,7 +5,6 @@ The advancement in the technology has made us to enter into a different world wh
 ### Cloning the repository
 git clone https://github.com/aft145/aft145.github.io.git
 ### Software Requirement
-1. Windows OS
 3. Arduino IDE
 4. Android Studio
 5. Firebase DB
