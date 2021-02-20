@@ -39,6 +39,7 @@ apply plugin: 'com.google.gms.google-services'
 Now your application is connected to the firebase.
 ### Permissions in Manifest file
 IoT based  smart home application need following permissions in the android manifest file. In order to run the files in the android studio, you need to specify these permissions in the AndroidManifest.xml file.
+
 “```"
 
 <uses-permission android:name="android.permission.INTERNET" />
@@ -47,4 +48,5 @@ IoT based  smart home application need following permissions in the android mani
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
 “```"
+
 ### Arduino IDE
