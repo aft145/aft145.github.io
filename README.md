@@ -46,4 +46,6 @@ IoT based  smart home application need following permissions in the android mani
 { ``` }
 
 ### Arduino IDE
-https://img.shields.io/badge/Contact%20Detail-fareed.aft145%40gmail.com-red
+https://img.shields.io/github/forks/aft145/aft145.github.io
+<a href="https://github.com/aft145/aft145.github.io/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/aft145/aft145.github.io"></a>
+[![GitHub forks](https://img.shields.io/github/forks/aft145/aft145.github.io)](https://github.com/aft145/aft145.github.io/network)
