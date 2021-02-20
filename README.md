@@ -45,7 +45,7 @@ IoT based  smart home application need following permissions in the android mani
 <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 ```
 
-### Setting Up Arduino IDE
+## Setting Up Arduino IDE
 Open the Arduino IDE software and press CTRL+O to open the files. Select the directory where you have clone the repository. Now the Files are open inside the IDE.
 ### Installing COM/Serial Port Driver
 In order to upload code to the Node MCU and use the serial console, you need to install the COM/Serial port drivers. You can [Download](https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers "COM/Serial Port") download these drivers by clicking on the download.
