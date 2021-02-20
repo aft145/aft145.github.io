@@ -46,4 +46,4 @@ IoT based  smart home application need following permissions in the android mani
 { ``` }
 
 ### Arduino IDE
-https://img.shields.io/badge/<Contact Details>-<fareed.aft145@gmail.com>-<red>
+https://img.shields.io/badge/Contact%20Detail-fareed.aft145%40gmail.com-red
