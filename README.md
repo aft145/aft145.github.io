@@ -29,8 +29,10 @@ You have to write the following dependencies in the build.gradle file in order t
 { ``` }
 dependencies {
     implementation 'com.google.firebase:firebase-analytics'
+    
     implementation 'com.google.firebase:firebase-auth:20.0.1'
     }
+    
 apply plugin: 'com.google.gms.google-services'
 { ``` }
 
